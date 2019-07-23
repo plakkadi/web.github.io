@@ -1,0 +1,17 @@
+.viewheight{
+    height: 90vh;
+}
+.viewheight1{
+    height: 30vh;
+}
+.bg-primary{
+    background-color: blueviolet;
+}
+h1{
+    color:chocolate ;
+}
+.abcd{
+    animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+}
